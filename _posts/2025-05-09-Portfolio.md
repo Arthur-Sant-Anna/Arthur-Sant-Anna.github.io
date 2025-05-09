@@ -1,0 +1,8 @@
+---
+title: "portfolio"
+date: 2025-05-09
+---
+agenda - https://calendar.google.com/calendar/u/1?cid=YXJ0aHVyLnNpbHZlaXJhQHNlbXByZWNldWIuY29t
+currículo - https://docs.google.com/document/d/175RkhWnMYa9zGoI5HUaITb6qYfozh-nCLueLM7b1_Tk/edit?usp=sharing
+slides - https://docs.google.com/presentation/d/1MouwYVyuaL0JY3JBk-9DeRSXAc0HIZ4fcpdk7qmOBLo/edit?usp=sharing
+site - https://sites.google.com/view/portfolio63017225/in%C3%ADcio
